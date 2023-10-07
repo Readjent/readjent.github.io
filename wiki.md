@@ -17,7 +17,7 @@ Using geocoding, data regarding the tax rates set by the state, county, and muni
 federal income tax would also be added on for the purposes of the gross annual tax cost display.
 ### Income Tax Brackets
 *Since several jurisdictions implement an income tax that varies by the bracket an individual's income falls into, an additional step would have to be implemented
-to calculate the tax bracket of the user.**
+to calculate the tax bracket of the user.*
 ### Property Tax and Median House Cost
 Since a user would likely look at property tax for the sake of planning to buy future property, it would be pertinent to display the median housing cost
 for a given geographical region; which would thus require an additional layer of data to be encoded.*
